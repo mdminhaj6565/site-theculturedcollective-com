@@ -30,6 +30,11 @@ RewriteRule ^(.*)$ https://www.%1/$1 [R=301,L]
 # Retired URL (dead archive capture) -> closest related article
 RewriteRule ^fishtown-brew-pub-fantastic-food-fun(/|\.html)?$ /hashtag-visit-philly/ [L,R=301]
 
+# BEGIN Search Console fixes (2026-10-18)
+# Mistyped sitemap submitted in Search Console ("Couldn't fetch") -> real sitemap
+RewriteRule ^sitemapl\.xml$ /sitemap.xml [L,R=301,NC]
+# END Search Console fixes
+
 # Add a trailing slash (/) to a URL
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !\.[A-Za-z0-9]*$
