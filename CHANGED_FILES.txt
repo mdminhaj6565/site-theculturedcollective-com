@@ -1,0 +1,71 @@
+theculturedcollective.com - SEO changed files
+Extract over the live site root (keeps folder paths).
+
+ADDED (5):
+  added     2856cd08b8c04523b1e3ed11f451c947.txt
+  added     404.html
+  added     wp-content/uploads/2018/11/DSC_0172-e1543515183817.jpg
+  added     wp-content/uploads/2018/11/IMG_1275.jpg
+  added     wp-content/uploads/2019/11/gym.jpg
+
+MODIFIED (60):
+  modified  .htaccess
+  modified  49-gift-ideas-for-every-man-in-your-life.html
+  modified  about.html
+  modified  an-acoustic-evening-with-yuna.html
+  modified  atlanta-soul-life-music-festival.html
+  modified  author/naomi.html
+  modified  author/naomi/page/2.html
+  modified  author/naomi/page/3.html
+  modified  category/about-last-night.html
+  modified  category/food.html
+  modified  category/lifestyle/entertainment.html
+  modified  category/lifestyle/gadgets-technology.html
+  modified  category/lifestyle/health-fitness.html
+  modified  category/style.html
+  modified  category/style/bags-luggage.html
+  modified  category/style/mens-style.html
+  modified  category/style/page/2.html
+  modified  category/style/womens-style.html
+  modified  category/travel-leisure.html
+  modified  category/travel-leisure/guides-tips.html
+  modified  category/travel-leisure/hotels-resorts.html
+  modified  category/travel-leisure/hotels-resorts/page/2.html
+  modified  category/travel-leisure/see-do.html
+  modified  category/travel-leisure/see-do/page/2.html
+  modified  category/travel-leisure/see-do/page/3.html
+  modified  che-argentine-grill.html
+  modified  comuna-13-graffiti-tour-a-neighborhood-transformed.html
+  modified  contact.html
+  modified  delos-apollos-sacred-island.html
+  modified  discount-codes.html
+  modified  fishtown-brew-pub-fantastic-food-fun.html
+  modified  hashtag-visit-philly.html
+  modified  holland-house-beach-hotel-heavenly.html
+  modified  index.html
+  modified  kuramathi-kandolu-islands-maldives.html
+  modified  lasandia-tysons-corner-amazing-authentic-experience.html
+  modified  live-in-colour.html
+  modified  my-picturesque-visit-to-northampton-massachusetts.html
+  modified  oci-a-must-eat-in-medellin.html
+  modified  relax-spread-out-at-sonesta-es-suites-jacksonville.html
+  modified  robots.txt
+  modified  san-andres-island.html
+  modified  shop-category/bags-luggage.html
+  modified  shop-category/mens.html
+  modified  shop-category/packing-essentials.html
+  modified  shop-category/travel-electronics.html
+  modified  shop-category/travel-gear.html
+  modified  shop-category/womens.html
+  modified  shop.html
+  modified  sitemap.xml
+  modified  sonesta-gwinnett-atlanta.html
+  modified  sonesta-philadelphia-downtown-rittenhouse-square.html
+  modified  tag/hotels.html
+  modified  tag/northampton-massachusetts.html
+  modified  tag/things-to-do.html
+  modified  the-clift-royal-sonesta-hotel-san-francisco.html
+  modified  top-to-dos-in-beautiful-bali.html
+  modified  visit-west-africa-senegal-beauty-cultural-richness.html
+  modified  work-with-us.html
+  modified  yuso-onigiri-a-world-of-taste-in-a-4-inch-triangle.html

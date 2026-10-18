@@ -1,0 +1,2 @@
+jQuery(document).ready(function($){"use strict";if(typeof yith_infs=='undefined'){return;}
+var infinite_scroll={'nextSelector':yith_infs.nextSelector,'navSelector':yith_infs.navSelector,'itemSelector':yith_infs.itemSelector,'contentSelector':yith_infs.contentSelector,'loader':'<img src="'+yith_infs.loader+'">','is_shop':yith_infs.shop};$(yith_infs.contentSelector).yit_infinitescroll(infinite_scroll);$(document).on('yith-wcan-ajax-filtered',function(){$(window).unbind('yith_infs_start');$(yith_infs.contentSelector).yit_infinitescroll(infinite_scroll);});});
